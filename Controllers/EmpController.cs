@@ -13,5 +13,10 @@ namespace GitExerciseMVC.Controllers
         {
             return View();
         }
+        public ActionResult OurPView()
+        {
+            return View();
+        }
+    
     }
 }
